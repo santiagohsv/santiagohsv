@@ -11,6 +11,9 @@ Las principales tecnologías que utilizo son las siguientes:
   <li>ReactJs</li>
 </ul>
 
+<h2> Proyectos </h2>
 
-![Screen Shot 2022-03-06 at 04 59 53](https://user-images.githubusercontent.com/67848075/156914598-aef4453c-f294-4b0f-806f-e8b5fcc8b62b.png)
-![Uploading Screen Shot 2022-03-06 at 05.00.40.png…]()
+
+
+![](https://user-images.githubusercontent.com/67848075/156914598-aef4453c-f294-4b0f-806f-e8b5fcc8b62b.png width="400" height="200" )
+
