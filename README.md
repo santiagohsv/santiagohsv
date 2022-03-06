@@ -15,5 +15,5 @@ Las principales tecnologías que utilizo son las siguientes:
 
 
 
-![](https://user-images.githubusercontent.com/67848075/156914598-aef4453c-f294-4b0f-806f-e8b5fcc8b62b.png | width=250px)
+![](https://user-images.githubusercontent.com/67848075/156914598-aef4453c-f294-4b0f-806f-e8b5fcc8b62b.png | width=250)
 
