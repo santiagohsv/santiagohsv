@@ -1,6 +1,6 @@
-<h1> Hola, soy Santiago </h1>
+<h1>Hola, soy Santiago!</h1>
 
-<p> Ingeniero electrónico y Frontend developer en formación.</p>
+<p> Vivo en Argentina, soy ingeniero electrónico y frontend developer en formación.</p>
 
 Las principales tecnologías que utilizo son las siguientes:
 
@@ -11,4 +11,4 @@ Las principales tecnologías que utilizo son las siguientes:
   <li>ReactJs</li>
 </ul>
 
-<h2>Proyectos</h2>
+
