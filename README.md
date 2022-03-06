@@ -1,13 +1,14 @@
-# Hola, Soy Santiago!
+<h1> Hola, soy Santiago </h1>
 
-Soy ingeniero electrónico, actualmente trabajo como ingeniero de mantenimiento y estoy estudiando Desarrollo Web. Busco mi primer experiencia como desarrollador Frontend.
+<p> Ingeniero electrónico y Frontend developer en formación.</p>
 
-Herramientas: 
+Las principales tecnologías que utilizo son las siguientes:
+
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>SASS</li>
-  <li>Bootstrap</>
-  <li>ReactJS</>
-</ul> 
+  <li>ReactJs</li>
+</ul>
+
+<h2>Proyectos</h2>
