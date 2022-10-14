@@ -23,7 +23,7 @@ Here are some projects
 
 SH Fotografía: My first project, using HTML, CSS, SASS and Bootstrap
 
-![App Screenshot](https://user-images.githubusercontent.com/67848075/156914598-aef4453c-f294-4b0f-806f-e8b5fcc8b62b.png")
+![App Screenshot](https://user-images.githubusercontent.com/67848075/156914598-aef4453c-f294-4b0f-806f-e8b5fcc8b62b.png)
 
 [LINK](https://santiagohsv.github.io/shfotografia/)
 
@@ -41,7 +41,7 @@ Audiotech: Ecommerce of a audio store
 
 Technologies: ReactJS, React Hook Form, React Router Dom, Firebase. 
 
-![App Screenshot](https://user-images.githubusercontent.com/67848075/156915597-a2e7453e-5b01-42ea-a0da-066cb2dae0de.png" width="600")
+![App Screenshot](https://user-images.githubusercontent.com/67848075/156915597-a2e7453e-5b01-42ea-a0da-066cb2dae0de.png)
 
 [LINK](https://santiagohsv.github.io/audiotech/)
 
