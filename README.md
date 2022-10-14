@@ -31,7 +31,9 @@ Ecommerce: My first project using Javascript
 
 Technologies: HTML, CSS, Javascript, JQuery, JSON.
 
-![App Screenshot](https://user-images.githubusercontent.com/67848075/156915369-2fc75f68-e591-49d5-8828-e1ccd10f3d49.png" width="600")
+![App Screenshot](https://user-images.githubusercontent.com/67848075/156915369-2fc75f68-e591-49d5-8828-e1ccd10f3d49.png)
+
+
 
 [LINK](https://santiagohsv.github.io/TPFinal-JS/)
 
