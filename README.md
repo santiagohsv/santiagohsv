@@ -1,53 +1,57 @@
-<h1>Hola, soy Santiago!</h1>
+## 🚀 About Me
 
-<p> Soy ingeniero electrónico y frontend developer en formación.</p>
+I'am an electronic engineer with experience in the oil & gas industry.
 
-Las principales tecnologías que utilizo son las siguientes:
+The last two years I've  been learning web development, both front-end and back-end technologies with JavaScript as main language. I've been able to create web applications using HTML, CSS, and JavaScript,  React.JS, built  RESTful API using Express.JS , etc.   
 
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>ReactJs</li>
-</ul>
+## 🛠 Skills
 
-<h2> Proyectos </h2>
+Industry Knowledge: Back End Development, Front End Development,  GIT, Agile, Scrum.
 
-<h3> SH Fotografía</h3>
+Languages: HTML, CSS,  SASS, Javascript, Typescript.
 
-Mi primer proyecto, simula una página de una difusión de fotografía, en la misma se pueden visualizar fotografias y conceptos técnicos. 
+Applications: React, Nuxt JS, Node.JS, Experss.JS.
 
-Tecnologías utilizadas: HTML, CSS, SASS y Bootstrap para el menú de navegacón. 
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shsv)
 
 
-<a href="https://santiagohsv.github.io/shfotografia/"> 
-<img src="https://user-images.githubusercontent.com/67848075/156914598-aef4453c-f294-4b0f-806f-e8b5fcc8b62b.png" width="600"/>
-</a>
 
-[link al proyecto](https://santiagohsv.github.io/shfotografia/)
+## 🗂️ Projects
 
-<h3> Ecommerce </h3>
+Here are some projects 
 
-Mi primer trabajo utilizando Javascript. Simula una tienda de venta de fotografías donde el usuario puede elegir distintas fotos y seleccionar el tamaño que desea comprar. 
+[Awesome README](https://github.com/matiassingers/awesome-readme)
 
-Tecnologías utilizadas: HTML, CSS, Javascript, JQuery, JSON.
+SH Fotografía
+
+My first project, using HTML, CSS, SASS and Bootstrap
 
 
-<a href="https://santiagohsv.github.io/TPFinal-JS/"> 
-<img src="https://user-images.githubusercontent.com/67848075/156915369-2fc75f68-e591-49d5-8828-e1ccd10f3d49.png" width="600"/>
-</a>
+![App Screenshot](https://user-images.githubusercontent.com/67848075/156914598-aef4453c-f294-4b0f-806f-e8b5fcc8b62b.png" width="600")
 
-[link al proyecto](https://santiagohsv.github.io/TPFinal-JS)
+[LINK](https://santiagohsv.github.io/shfotografia/)
+
+Ecommerce 
+
+My first project using Javascript 
+
+Technologies: HTML, CSS, Javascript, JQuery, JSON.
+
+![App Screenshot](https://user-images.githubusercontent.com/67848075/156915369-2fc75f68-e591-49d5-8828-e1ccd10f3d49.png" width="600")
+
+[LINK](https://santiagohsv.github.io/TPFinal-JS/)
 
 
 <h3> Audiotech </h3>
 
-Simulador de una tienda de venta de instrumentos musicales y equipamiento para grabación y sonido.  
+Ecommerce of a audio store
 
-Tecnologías utilizadas: ReactJS, React Hook Form, React Router Dom, Firebase. 
+Technologies: ReactJS, React Hook Form, React Router Dom, Firebase. 
 
-<a href="https://santiagohsv.github.io/audiotech/"> 
-<img src="https://user-images.githubusercontent.com/67848075/156915597-a2e7453e-5b01-42ea-a0da-066cb2dae0de.png" width="600"/>
-</a>
+![App Screenshot](https://user-images.githubusercontent.com/67848075/156915597-a2e7453e-5b01-42ea-a0da-066cb2dae0de.png" width="600")
 
-[link al proyecto](https://santiagohsv.github.io/audiotech/)
+[LINK](https://santiagohsv.github.io/audiotech/)
+
+
