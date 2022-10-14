@@ -17,25 +17,17 @@ Applications: React, Nuxt JS, Node.JS, Experss.JS.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shsv)
 
 
-
 ## 🗂️ Projects
 
 Here are some projects 
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-SH Fotografía
-
-My first project, using HTML, CSS, SASS and Bootstrap
-
+SH Fotografía: My first project, using HTML, CSS, SASS and Bootstrap
 
 ![App Screenshot](https://user-images.githubusercontent.com/67848075/156914598-aef4453c-f294-4b0f-806f-e8b5fcc8b62b.png" width="600")
 
 [LINK](https://santiagohsv.github.io/shfotografia/)
 
-Ecommerce 
-
-My first project using Javascript 
+Ecommerce: My first project using Javascript 
 
 Technologies: HTML, CSS, Javascript, JQuery, JSON.
 
@@ -43,10 +35,7 @@ Technologies: HTML, CSS, Javascript, JQuery, JSON.
 
 [LINK](https://santiagohsv.github.io/TPFinal-JS/)
 
-
-<h3> Audiotech </h3>
-
-Ecommerce of a audio store
+Audiotech: Ecommerce of a audio store
 
 Technologies: ReactJS, React Hook Form, React Router Dom, Firebase. 
 
